@@ -1,0 +1,8 @@
+book_filename: "bookdownproj"
+output_dir: docs
+delete_merged_file: true
+edit: https://github.com/ahdariwsh/r4sds/edit/master/%s
+view: https://github.com/ahdarwish/r4sds/blob/master/%s
+language:
+  ui:
+    chapter_name: "Chapter "
